@@ -11,3 +11,7 @@
 1:ODB2 Bluetooth Adapter|http://a.co/e6uGP0H|$11
 
 Still need: A way to control this thing. Either upgrade the TFT to touchscreen or add a kb/mouse somewhere.
+Here's the BOM for a touchscreen version:
+1:Auto-switch|http://a.co/7d5OB4j|$23
+1:RCA-HDMI Converter (for backup cam) or a HDMI backup camera
+1:HDMI Touchscreen|http://a.co/ajCufP1|$37
