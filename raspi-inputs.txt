@@ -9,3 +9,5 @@ HDMI
 CSI Cam
 DSI Display
 MicroSD
+Power - to battery pack
+GPIO - to graceful shutdown pin
