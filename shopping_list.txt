@@ -9,3 +9,5 @@
 1:TFT|http://a.co/6atE1nE|$24
 1:Backup Camera|http://a.co/3W6ObzG|$11
 1:ODB2 Bluetooth Adapter|http://a.co/e6uGP0H|$11
+
+Still need: A way to control this thing. Either upgrade the TFT to touchscreen or add a kb/mouse somewhere.
