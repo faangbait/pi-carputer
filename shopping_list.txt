@@ -9,8 +9,8 @@
 1:TFT|http://a.co/6atE1nE|$24
 1:Backup Camera|http://a.co/3W6ObzG|$11
 1:ODB2 Bluetooth Adapter|http://a.co/e6uGP0H|$11
+1:Wireless KB|https://www.ebay.com/p/Riitek-i8-EPSI8-Wireless-Keyboard/222713895?iid=162708530135&chn=ps|$9
 
-Still need: A way to control this thing. Either upgrade the TFT to touchscreen or add a kb/mouse somewhere.
 Here's the BOM for a touchscreen version:
 1:Auto-switch|http://a.co/7d5OB4j|$23
 1:RCA-HDMI Converter (for backup cam) or a HDMI backup camera
